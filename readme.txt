@@ -1,2 +1,3 @@
 Git is a big distributed version control system.
-Git is very free software.
+Git is a two software.
+git is mine.
